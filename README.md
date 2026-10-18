@@ -19,7 +19,7 @@ A [Dalamud](https://github.com/goatcorp/Dalamud) custom plugin repository for th
 
 | Plugin | What it does | Status |
 | --- | --- | --- |
-| [Duty Notes](https://github.com/notingway/duty-notes) | An in-game overlay for your notes on a duty: mechanics, the mitigation skills to use, and free text, switching by itself when you enter the duty. | Experimental, not released yet |
+| [Duty Notes](https://github.com/notingway/duty-notes) | An in-game overlay for your notes on a duty: mechanics, the mitigation actions to use, and free text, switching by itself when you enter the duty. | Experimental, 0.1.0 |
 
 ## For the author
 
