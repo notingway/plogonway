@@ -3,7 +3,7 @@
     "Author": "notingway",
     "Name": "Duty Notes",
     "InternalName": "DutyNotes",
-    "AssemblyVersion": "0.1.0.0",
+    "AssemblyVersion": "0.1.1.0",
     "Description": "An in-game overlay that holds your notes for a duty: a table of mechanics, the mitigation and healing actions to use for each (shown as icons), notes, and free text. Encounters can be tied to a duty and a job so the right one appears when you enter, with phases you can step through from buttons or macros.",
     "ApplicableVersion": "any",
     "RepoUrl": "https://github.com/notingway/duty-notes",
@@ -13,15 +13,15 @@
     "LoadSync": false,
     "CanUnloadAsync": false,
     "LoadPriority": 0,
+    "ImageUrls": ["https://raw.githubusercontent.com/notingway/duty-notes/main/images/image1.png"],
+    "IconUrl": "https://raw.githubusercontent.com/notingway/duty-notes/main/images/icon.png",
     "Punchline": "Per-duty overlay for mechanics, mitigation and notes.",
     "AcceptsFeedback": true,
     "IsHide": false,
     "IsTestingExclusive": false,
-    "DownloadLinkInstall": "https://github.com/notingway/duty-notes/releases/download/v0.1.0/latest.zip",
-    "DownloadLinkUpdate": "https://github.com/notingway/duty-notes/releases/download/v0.1.0/latest.zip",
-    "LastUpdate": 1792289016,
-    "Changelog": "First experimental release: overlay of mechanics, actions and notes per duty, with phases, auto-select by duty and job, and import and export.",
-    "IconUrl": "https://raw.githubusercontent.com/notingway/duty-notes/main/images/icon.png",
-    "ImageUrls": ["https://raw.githubusercontent.com/notingway/duty-notes/main/images/image1.png"]
+    "DownloadLinkInstall": "https://github.com/notingway/duty-notes/releases/download/v0.1.1/latest.zip",
+    "DownloadLinkUpdate": "https://github.com/notingway/duty-notes/releases/download/v0.1.1/latest.zip",
+    "LastUpdate": 1792289646,
+    "Changelog": "Fixes the icon disappearing once installed, and shortens the command text shown in the plugin installer."
   }
 ]
